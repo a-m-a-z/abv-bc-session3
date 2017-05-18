@@ -1,5 +1,5 @@
-# JavaScript FIZZBUZZ function
-JavaScript project check if a number can be divide by 3, 5 or Both and output Fizz, Buzz and FizzBuzz  respectively
+# JavaScript function on palindrome
+JavaScript project check if a string is a palindrome and will return true. if not the function will return the palindrome of the string
 
 Install npm jasmine
 Run `jasmine ` to get started
